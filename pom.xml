@@ -21,6 +21,7 @@
 
     <modules>
         <module>hello1</module>
+        <module>hello2</module>
     </modules>
 
     <properties>
